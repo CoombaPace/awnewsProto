@@ -40,7 +40,6 @@ app.delete("/articles/:id", function(req, res) {
 });
 
 // When User clicks the scrape button.
-// $(document).on("click", ".scrape", function (e) {
 // A GET route for scraping Antiwar.com
 app.get("/scrape", function(req, res) {
   // First, we grab the body of the html with axios
@@ -77,7 +76,6 @@ app.get("/scrape", function(req, res) {
     res.send("Scrape Complete");
   });
 });
-// });
 
 // Route for getting all Articles from the db
 app.get("/articles", function(req, res) {
