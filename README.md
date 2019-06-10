@@ -1,4 +1,5 @@
-![alt text](Prototype App/antiwar_logo.jpg "AntiWar.com Logo")
+![alt text](https://dgxhtav2e25a8.cloudfront.net/antiwar_logo.gif "AntiWar.com Logo")
+
 
 #AntiWar.com Proto-Scraper
 
